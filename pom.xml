@@ -24,6 +24,8 @@
 		<maven-ejb-plugin.version>2.3</maven-ejb-plugin.version>
 		<maven-dependency-plugin.version>2.6</maven-dependency-plugin.version>
 		<maven-war-plugin.version>2.3</maven-war-plugin.version>
+		<jackson-core.version>2.3.2</jackson-core.version>
+		<commons-lang.version>3.3.2</commons-lang.version>
 	</properties>
 
 	<modules>
@@ -50,6 +52,17 @@
 				<artifactId>glassfish-embedded-all</artifactId>
 				<version>${glassfish-embedded-all.version}</version>
 				<scope>test</scope>
+			</dependency>
+			<dependency>
+				<groupId>com.fasterxml.jackson.core</groupId>
+				<artifactId>jackson-core</artifactId>
+				<version>${jackson-core.version}</version>
+				<scope>provided</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-lang3</artifactId>
+				<version>${commons-lang.version}</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
