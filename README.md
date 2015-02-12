@@ -28,3 +28,4 @@ The EjbIntegrationTest runs in Eclipse as well, since there Glassfish is started
 Please, set a VM parameter "-Dmp-prototype.ejb-demo.earfilename=classes" using Run|Run 
 Configurations/Arguments (I can fix this, currently it's a hack).
 
+Have fun :)
