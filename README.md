@@ -29,3 +29,5 @@ Please, set a VM parameter "-Dmp-prototype.ejb-demo.earfilename=classes" using R
 Configurations/Arguments (I can fix this, currently it's a hack).
 
 Have fun :)
+
+Neu1
