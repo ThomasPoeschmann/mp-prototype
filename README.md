@@ -3,7 +3,7 @@ mp-prototype1
 
 DAS IST DER BRANCH
 
-NEU
+NEU1inmaster
 
 In order to run, you should...
 * install maven (3.2.3 is what I used)
