@@ -9,6 +9,8 @@ Hier 2. repo
 
 u2 entry
 
+New Entry
+
 In order to run, you should...
 * install maven (3.2.3 is what I used)
 * install JDK (1.7.0_67 for me)
