@@ -8,6 +8,7 @@ Test
 Hier 2. repo
 
 u2 entry
+u2
 
 some more u2 entry
 
