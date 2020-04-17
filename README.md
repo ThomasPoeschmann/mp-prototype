@@ -1,20 +1,7 @@
-mp-prototype1
-=============
+mp-prototype
+============
 
-Hier
-
-Test
-
-Hier 2. repo
-
-u2 entry
-u2
-
-some more u2 entry
-
-New Entry
-
-u1entry
+Just some testing process to illustrate some good old EJB concepts. EJB has died, hence we could call this project "deprecated", maybe.
 
 In order to run, you should...
 * install maven (3.2.3 is what I used)
@@ -42,7 +29,3 @@ via Maven.
 The EjbIntegrationTest runs in Eclipse as well, since there Glassfish is started programatically.
 Please, set a VM parameter "-Dmp-prototype.ejb-demo.earfilename=classes" using Run|Run 
 Configurations/Arguments (I can fix this, currently it's a hack).
-
-New entry in master
-
-new
