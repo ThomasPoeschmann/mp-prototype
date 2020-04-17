@@ -1,7 +1,7 @@
 mp-prototype
 ============
 
-Just some testing process to illustrate some good old EJB concepts. EJB has died, hence we could call this project "deprecated", maybe.
+This is a test project to illustrate some good old EJB concepts. EJB has died, hence we could call this project "deprecated", maybe.
 
 In order to run, you should...
 * install maven (3.2.3 is what I used)
